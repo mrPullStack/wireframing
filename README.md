@@ -45,3 +45,37 @@ A side menu or top navigation bar that allows users to:
 
 Without clear navigation, users may become frustrated or lost.
 
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process and the goals of the project. The two main types are **Low-Fidelity Wireframes** and **High-Fidelity Wireframes**.
+
+### 1. Low-Fidelity Wireframes
+
+Low-fidelity wireframes are **simple, rough sketches** that focus on the basic structure and layout of a page without any design details like color, images, or typography. They are quick to create and easy to modify.
+
+**When to Use:**
+- In the early stages of the design process
+- To brainstorm layout ideas
+- When seeking quick feedback on structure and flow
+
+**Characteristics:**
+- Basic shapes and placeholders (boxes, lines, circles)
+- Minimal text
+- No styling or detailed visuals
+
+---
+
+### 2. High-Fidelity Wireframes
+
+High-fidelity wireframes are **more detailed and polished** representations that closely resemble the final product. They may include actual text, images, buttons, and basic styling.
+
+**When to Use:**
+- In later stages of the design process
+- Before handing off to developers
+- For client presentations or usability testing
+
+**Characteristics:**
+- Precise spacing and alignment
+- Representative content and images
+- Some interactive elements may be indicated
